@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(65, 139, 239);
+}
+
+h1 {
+  font-family: 'Newsreader', serif;
+}
+
+.description {
+  font-family: 'Roboto', sans-serif;
+}
+
+#habilidades {
+  font-family: 'Newsreader';
+  font-weight: bold;
+}
+
+#blogs {
+ font-size: 18px;
+}
