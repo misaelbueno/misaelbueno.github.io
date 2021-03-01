@@ -2,12 +2,20 @@ body {
   background-color: rgb(65, 139, 239);
 }
 
-h1 {
+#nome {
   font-family: 'Newsreader', serif;
+  text-align: center;
+}
+
+#image {
+  display: inline-block;
 }
 
 .description {
   font-family: 'Roboto', sans-serif;
+  display: inline-block;
+  width: 500px;
+  margin-left: 100px;
 }
 
 #habilidades {
